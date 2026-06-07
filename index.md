@@ -67,6 +67,3 @@
 
   If you have questions about this privacy policy, contact us at
   sabihgz@yahoo.com.
-
-  4. Replace your-email@example.com with your actual email
-  5. Click Commit changes
