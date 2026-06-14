@@ -1,69 +1,43 @@
-# Passport Photo - Support
+# Privacy Policy
 
-  ## Contact Us
+_Last updated: June 14, 2026_
 
-  If you need help or have questions about the app, please email us
-  at:
+This Privacy Policy explains how the Passport Photo app ("the app", "we", "us") handles your information. We are committed to protecting your privacy. The app is designed so that your photos and face data never leave your device.
 
-  sabihgz@yahoo.com
+## Face Data
 
-  We typically respond within 48 hours.
+To help you take a compliant passport photo, the app uses Apple's on-device Vision framework to temporarily analyze the photo and compute basic face geometry — a face bounding box and facial landmark points (the face/chin contour and eye positions). This is used solely to verify that the photo meets passport requirements (that exactly one face is present, that the face is centered, that the head-to-frame proportion is correct, and that the eyes are open) and to crop and frame the photo accordingly.
 
-  ---
+This face analysis is performed entirely on your device and only in temporary memory. The app does not create, store, or use any facial-recognition template, faceprint, or identity profile, and it does not identify or recognize individuals. The computed face geometry is discarded immediately after each photo is analyzed and is never stored, never transmitted off your device, and never shared with any third party. We do not retain any face data. The only output that is kept is the finished passport photo image, which is saved to your device's Photos library only when you choose to save it.
 
-  ## Privacy Policy
+## Photos
 
-  **Last updated: June 7, 2026**
+Photos you capture or process are handled on your device. The app saves a passport photo to your Photos library only at your request. We do not upload, transmit, or store your photos on any server, and we do not share them with any third party.
 
-  Passport Photo ("the App") respects your privacy. This policy
-  explains what data is collected and how it is used.
+## Camera
 
-  ### Data We Collect
+The app requests camera access only so that you can take a passport photo within the app. The camera feed is processed on your device and is not recorded or transmitted by us.
 
-  **Camera & Photos**
-  The App accesses your camera to take passport photos and your photo
-   library to save them. All photos are processed entirely on your
-  device. We do not upload, store, or transmit your photos to any
-  server.
+## Advertising
 
-  ### Third-Party Services
+The app may display advertisements through Google AdMob. AdMob may collect device and usage information in accordance with Google's privacy practices to deliver and measure ads. AdMob does **not** receive your photos or any face data. With your permission (requested via Apple's App Tracking Transparency prompt), advertising identifiers may be used to show more relevant ads; you can decline, and you can change this at any time in your device Settings. For more information, see Google's Privacy Policy: https://policies.google.com/privacy
 
-  **Google AdMob**
-  The App uses Google AdMob to display advertisements. AdMob may
-  collect and use data to serve personalized or non-personalized ads,
-   including:
-  - Device identifiers
-  - IP address
-  - Usage data
+## Purchases
 
-  For more information, see [Google's Privacy Policy](https://policies.google.com/privacy).
+If you purchase the ad-free version or other in-app purchases, the transaction is handled by Apple. We do not receive or store your payment information.
 
-  **App Tracking Transparency**
-  The App requests your permission before tracking activity across
-  other apps and websites for ad personalization. You can change this
-   at any time in your device's Settings.
+## Data Retention
 
-  **Apple StoreKit**
-  The App offers an in-app purchase to remove ads. Purchases are
-  processed by Apple. We do not collect or store any payment
-  information.
+We do not collect or retain personal data, photos, or face data on any server. Face data is transient and discarded immediately after analysis. Photos remain on your device under your control.
 
-  ### Data Storage
+## Children's Privacy
 
-  All photo processing happens on your device. We do not operate any
-  servers and do not collect, store, or share any personal data.
+The app does not knowingly collect personal information from children.
 
-  ### Children's Privacy
+## Changes to This Policy
 
-  The App is not directed at children under 13. We do not knowingly
-  collect data from children.
+We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated "Last updated" date.
 
-  ### Changes to This Policy
+## Contact
 
-  We may update this policy from time to time. Changes will be
-  reflected on this page with an updated date.
-
-  ### Contact
-
-  If you have questions about this privacy policy, contact us at
-  sabihgz@yahoo.com.
+If you have any questions about this Privacy Policy, contact us at: sabihgz@yahoo.com
